@@ -1,4 +1,4 @@
-# Internship Program: CodeAlpha — Data Analytics  
+# Internship Program — Data Analytics  
 ## Task 1 – Web Scraping  
 ### Project Title: Job Listings Extraction from Static HTML (2025)
 
